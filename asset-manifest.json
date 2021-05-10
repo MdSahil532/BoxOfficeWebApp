@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BoxOfficeWebApp/static/css/main.750b5290.chunk.css",
+    "main.js": "/BoxOfficeWebApp/static/js/main.d56086af.chunk.js",
+    "main.js.map": "/BoxOfficeWebApp/static/js/main.d56086af.chunk.js.map",
+    "runtime-main.js": "/BoxOfficeWebApp/static/js/runtime-main.d95c14d3.js",
+    "runtime-main.js.map": "/BoxOfficeWebApp/static/js/runtime-main.d95c14d3.js.map",
+    "static/js/2.13e5caa2.chunk.js": "/BoxOfficeWebApp/static/js/2.13e5caa2.chunk.js",
+    "static/js/2.13e5caa2.chunk.js.map": "/BoxOfficeWebApp/static/js/2.13e5caa2.chunk.js.map",
+    "static/js/3.bf52c7c0.chunk.js": "/BoxOfficeWebApp/static/js/3.bf52c7c0.chunk.js",
+    "static/js/3.bf52c7c0.chunk.js.map": "/BoxOfficeWebApp/static/js/3.bf52c7c0.chunk.js.map",
+    "index.html": "/BoxOfficeWebApp/index.html",
+    "service-worker.js": "/BoxOfficeWebApp/service-worker.js",
+    "service-worker.js.map": "/BoxOfficeWebApp/service-worker.js.map",
+    "static/css/main.750b5290.chunk.css.map": "/BoxOfficeWebApp/static/css/main.750b5290.chunk.css.map",
+    "static/js/2.13e5caa2.chunk.js.LICENSE.txt": "/BoxOfficeWebApp/static/js/2.13e5caa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d95c14d3.js",
+    "static/js/2.13e5caa2.chunk.js",
+    "static/css/main.750b5290.chunk.css",
+    "static/js/main.d56086af.chunk.js"
+  ]
+}
